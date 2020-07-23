@@ -462,10 +462,10 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
     </dependency>
   </dependencies>
   
-   <project>
+   
  	<properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-   </project>
+   
   
 </project>
