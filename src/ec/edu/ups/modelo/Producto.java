@@ -87,7 +87,7 @@ public class Producto implements Serializable {
 
 	}
 	
-	///Esperemos que valga esto.
+	///Esperemos que valga esto xfis.
 	
 	
 	public int getId() {
