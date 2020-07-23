@@ -54,7 +54,7 @@ public class Producto implements Serializable {
 			this.cantidad = cantidad;
 		}
 
-
+		////producto
 	public Producto( String nombre,String descripcion,Double preciounitario,
 			Double preciopublico,Categoria categoria,int stock) {
 		super();
