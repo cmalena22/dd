@@ -16,7 +16,7 @@ import javax.persistence.*;
 
 public class Rol implements Serializable {
 
-	//prueba de compilacion ghjkl
+	//prueba de compilacion ghjkl fghjk
 	//
 	private static final long serialVersionUID = 1L;
 	@Id
