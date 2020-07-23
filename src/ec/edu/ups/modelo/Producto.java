@@ -87,7 +87,7 @@ public class Producto implements Serializable {
 
 	}
 	
-	///Esperemos que valga esto xfis.
+	///Esperemos que valga esto xfis 2020.
 	
 	
 	public int getId() {
